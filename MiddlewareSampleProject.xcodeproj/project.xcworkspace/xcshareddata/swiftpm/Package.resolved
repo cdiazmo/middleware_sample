@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Middleware",
+        "repositoryURL": "https://github.com/cdiazmo/middleware.git",
+        "state": {
+          "branch": "main",
+          "revision": "acdee9322c5a421e1a44e9034a6abc5e4bb10e95",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
